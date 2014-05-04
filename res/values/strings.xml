@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tris</string>
+    <string name="action_settings">Settings</string>
+    <string name="riavvia">Ricomincia!</string>
+    <string name="comincia">Chi vincerà?</string>
+    <string name="title_activity_selezione">Tris</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_multy">Multy</string>
+    <string name="title_activity_scelta">Scelta</string>
+
+</resources>
